@@ -1,7 +1,8 @@
 public class cricket {
     public static void main(String[] args) {
-        System.out.println("i am sufiyan");
-        System.out.println("i love cricket");
+        System.out.println("i am mahesh");
+        System.out.println("i love football");
+ System.out.println("i love cri");
     }
 
 }
